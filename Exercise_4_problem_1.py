@@ -50,9 +50,10 @@ print('71° Fahrenheit in Celsius',fahr_to_celsius(71),'Celsius')
 #   2. What are some of the benefits of using functions?
 #   
 # Write your answers below:
-
+# 1.Yes 
+# 
 # YOUR ANSWER HERE. Write your answers as comments
-#
+#2. function is useful for reducing the number of codes because you don't have to use same codes with function. Only Substituting a number, They will be possible.
 #
 #
 #
