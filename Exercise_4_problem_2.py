@@ -30,7 +30,7 @@ def temp_classifier(temp_celsius):
   to separate classes with temperature
   Parameters:
     ----------
-   temp_celsius
+   temp_celsius　
   
 
     Returns:
