@@ -10,3 +10,6 @@ def temp_classifier(temp_celsius):
     return 2
   else:
     return 3
+"""
+to combinate these functions to separete classes about temperature level(0,1,2,3)
+"""
