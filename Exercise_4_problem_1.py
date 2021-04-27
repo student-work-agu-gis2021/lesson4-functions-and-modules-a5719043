@@ -20,6 +20,16 @@
 
 # YOUR CODE HERE
 def fahr_to_celsius(temp_fahrenheit):
+  """
+  to change from fahrenheit to celsius
+  Parameters:
+    ----------
+  temp_fahrenheit
+
+    Returns:
+    ----------
+    fahr_to_celsius
+  """
   converted_temp = ( temp_fahrenheit - 32 ) / 1.8
   return converted_temp
     
