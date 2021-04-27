@@ -26,6 +26,24 @@
 
 # YOUR CODE HERE to define temp_classifier
 def temp_classifier(temp_celsius):
+  """
+  to separate classes with temperature
+  Parameters:
+    ----------
+   temp_celsius
+  
+
+    Returns:
+    ----------
+     temp_celsius < -2:
+      return 0
+     temp_celsius < 2:
+      return 1
+     temp_celsius < 15:
+      return 2
+    temp_celsius > 15
+      return 3
+  """ 
   if temp_celsius < -2:
     return 0
   elif temp_celsius < 2:
