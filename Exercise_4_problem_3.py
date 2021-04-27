@@ -70,6 +70,7 @@ temp_classes = []
 for temp in temp_data:
   temp_celsius=temp_classifier(fahr_to_celsius(temp))
   temp_classes.append(temp_celsius)
+  
 # #### Part 2 (continues)
 # 
 # 6. Calculate how many temperatures there are in each temperature class:
@@ -103,7 +104,7 @@ print(zeros,ones,twos,threes)
 # - If you have any comments and concerns at this point, you can write them below:
 
 # YOUR ANSWER HERE. Write your answer as comments (with #)
-#
+
 #
 #
 #
